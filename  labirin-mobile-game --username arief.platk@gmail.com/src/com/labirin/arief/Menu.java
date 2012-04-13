@@ -18,11 +18,14 @@ import org.anddev.andengine.ui.activity.BaseGameActivity;
 
 public class Menu extends BaseGameActivity {
 	private Camera mCamera;
-	private Texture mTextureBack;
+	// MENU UTAMA //
+  private Texture mTextureBack;
 	private Texture mTextureButton;
 	private Texture mTextureHelp;
 	private Texture mTextureAbout;
-	private Texture mTextureMenuLevel1;
+	 
+    // MUNU LEVEL //
+  private Texture mTextureMenuLevel1;
 	private Texture mTextureButtonLevel1;
 
 	// MENU UTAMA //
